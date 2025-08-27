@@ -1,0 +1,286 @@
+[
+    {
+        "timestamp": 1754411295.2934055,
+        "cpu_percent": 0.0
+    },
+    {
+        "timestamp": 1754411296.3085554,
+        "cpu_percent": 10.0
+    },
+    {
+        "timestamp": 1754411297.31969,
+        "cpu_percent": 6.5
+    },
+    {
+        "timestamp": 1754411298.3294497,
+        "cpu_percent": 3.4
+    },
+    {
+        "timestamp": 1754411299.3413873,
+        "cpu_percent": 9.7
+    },
+    {
+        "timestamp": 1754411300.351178,
+        "cpu_percent": 11.1
+    },
+    {
+        "timestamp": 1754411301.360678,
+        "cpu_percent": 9.3
+    },
+    {
+        "timestamp": 1754411302.369973,
+        "cpu_percent": 5.7
+    },
+    {
+        "timestamp": 1754411303.3792808,
+        "cpu_percent": 6.4
+    },
+    {
+        "timestamp": 1754411304.387466,
+        "cpu_percent": 6.8
+    },
+    {
+        "timestamp": 1754411305.3967278,
+        "cpu_percent": 6.1
+    },
+    {
+        "timestamp": 1754411306.4051497,
+        "cpu_percent": 4.5
+    },
+    {
+        "timestamp": 1754411307.412687,
+        "cpu_percent": 4.7
+    },
+    {
+        "timestamp": 1754411308.4216292,
+        "cpu_percent": 3.9
+    },
+    {
+        "timestamp": 1754411309.4299242,
+        "cpu_percent": 6.0
+    },
+    {
+        "timestamp": 1754411310.4402442,
+        "cpu_percent": 6.0
+    },
+    {
+        "timestamp": 1754411311.450591,
+        "cpu_percent": 7.8
+    },
+    {
+        "timestamp": 1754411312.4594944,
+        "cpu_percent": 5.5
+    },
+    {
+        "timestamp": 1754411313.468917,
+        "cpu_percent": 3.6
+    },
+    {
+        "timestamp": 1754411314.477925,
+        "cpu_percent": 4.6
+    },
+    {
+        "timestamp": 1754411315.4869668,
+        "cpu_percent": 3.8
+    },
+    {
+        "timestamp": 1754411316.4947515,
+        "cpu_percent": 5.0
+    },
+    {
+        "timestamp": 1754411317.5037236,
+        "cpu_percent": 4.5
+    },
+    {
+        "timestamp": 1754411318.5125988,
+        "cpu_percent": 4.0
+    },
+    {
+        "timestamp": 1754411319.52156,
+        "cpu_percent": 4.2
+    },
+    {
+        "timestamp": 1754411320.5294814,
+        "cpu_percent": 5.1
+    },
+    {
+        "timestamp": 1754411321.537573,
+        "cpu_percent": 3.9
+    },
+    {
+        "timestamp": 1754411322.5450861,
+        "cpu_percent": 5.9
+    },
+    {
+        "timestamp": 1754411323.553925,
+        "cpu_percent": 4.0
+    },
+    {
+        "timestamp": 1754411324.5623202,
+        "cpu_percent": 4.5
+    },
+    {
+        "timestamp": 1754411325.5705702,
+        "cpu_percent": 5.2
+    },
+    {
+        "timestamp": 1754411326.579117,
+        "cpu_percent": 6.7
+    },
+    {
+        "timestamp": 1754411327.5873208,
+        "cpu_percent": 8.1
+    },
+    {
+        "timestamp": 1754411328.6062534,
+        "cpu_percent": 48.9
+    },
+    {
+        "timestamp": 1754411329.6202893,
+        "cpu_percent": 37.9
+    },
+    {
+        "timestamp": 1754411330.630688,
+        "cpu_percent": 5.9
+    },
+    {
+        "timestamp": 1754411331.6389985,
+        "cpu_percent": 7.6
+    },
+    {
+        "timestamp": 1754411332.6489768,
+        "cpu_percent": 6.7
+    },
+    {
+        "timestamp": 1754411333.6591287,
+        "cpu_percent": 5.2
+    },
+    {
+        "timestamp": 1754411334.6675365,
+        "cpu_percent": 5.1
+    },
+    {
+        "timestamp": 1754411335.6762762,
+        "cpu_percent": 5.1
+    },
+    {
+        "timestamp": 1754411336.684021,
+        "cpu_percent": 6.3
+    },
+    {
+        "timestamp": 1754411337.6931574,
+        "cpu_percent": 5.8
+    },
+    {
+        "timestamp": 1754411338.7025914,
+        "cpu_percent": 5.3
+    },
+    {
+        "timestamp": 1754411339.7124333,
+        "cpu_percent": 4.5
+    },
+    {
+        "timestamp": 1754411340.7225332,
+        "cpu_percent": 4.9
+    },
+    {
+        "timestamp": 1754411341.7317858,
+        "cpu_percent": 4.9
+    },
+    {
+        "timestamp": 1754411342.7413735,
+        "cpu_percent": 4.8
+    },
+    {
+        "timestamp": 1754411343.753172,
+        "cpu_percent": 4.5
+    },
+    {
+        "timestamp": 1754411344.7595391,
+        "cpu_percent": 4.2
+    },
+    {
+        "timestamp": 1754411345.7691917,
+        "cpu_percent": 4.5
+    },
+    {
+        "timestamp": 1754411346.778116,
+        "cpu_percent": 5.0
+    },
+    {
+        "timestamp": 1754411347.7854168,
+        "cpu_percent": 4.4
+    },
+    {
+        "timestamp": 1754411348.794411,
+        "cpu_percent": 5.8
+    },
+    {
+        "timestamp": 1754411349.8058248,
+        "cpu_percent": 6.2
+    },
+    {
+        "timestamp": 1754411350.8120222,
+        "cpu_percent": 8.1
+    },
+    {
+        "timestamp": 1754411351.8206313,
+        "cpu_percent": 7.2
+    },
+    {
+        "timestamp": 1754411352.831701,
+        "cpu_percent": 6.2
+    },
+    {
+        "timestamp": 1754411353.837861,
+        "cpu_percent": 6.5
+    },
+    {
+        "timestamp": 1754411354.8457513,
+        "cpu_percent": 4.8
+    },
+    {
+        "timestamp": 1754411355.8545418,
+        "cpu_percent": 5.2
+    },
+    {
+        "timestamp": 1754411356.8614817,
+        "cpu_percent": 7.3
+    },
+    {
+        "timestamp": 1754411357.868355,
+        "cpu_percent": 5.5
+    },
+    {
+        "timestamp": 1754411358.8770401,
+        "cpu_percent": 7.3
+    },
+    {
+        "timestamp": 1754411359.8858025,
+        "cpu_percent": 5.8
+    },
+    {
+        "timestamp": 1754411360.893269,
+        "cpu_percent": 6.2
+    },
+    {
+        "timestamp": 1754411361.9029486,
+        "cpu_percent": 6.6
+    },
+    {
+        "timestamp": 1754411362.9115822,
+        "cpu_percent": 4.0
+    },
+    {
+        "timestamp": 1754411363.9228735,
+        "cpu_percent": 6.1
+    },
+    {
+        "timestamp": 1754411364.9308982,
+        "cpu_percent": 2.9
+    },
+    {
+        "timestamp": 1754411365.9338942,
+        "cpu_percent": 4.5
+    }
+]

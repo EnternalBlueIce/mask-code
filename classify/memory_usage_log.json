@@ -1,0 +1,282 @@
+[
+    {
+        "timestamp": 1754411725.8399007,
+        "memory_used_MB": 9.77734375
+    },
+    {
+        "timestamp": 1754411726.8517294,
+        "memory_used_MB": 226.23046875
+    },
+    {
+        "timestamp": 1754411727.854188,
+        "memory_used_MB": 317.63671875
+    },
+    {
+        "timestamp": 1754411728.866244,
+        "memory_used_MB": 340.55078125
+    },
+    {
+        "timestamp": 1754411729.8746974,
+        "memory_used_MB": 786.8828125
+    },
+    {
+        "timestamp": 1754411730.8832574,
+        "memory_used_MB": 349.50390625
+    },
+    {
+        "timestamp": 1754411731.8914583,
+        "memory_used_MB": 353.4296875
+    },
+    {
+        "timestamp": 1754411732.9006276,
+        "memory_used_MB": 358.92578125
+    },
+    {
+        "timestamp": 1754411733.9101245,
+        "memory_used_MB": 362.1875
+    },
+    {
+        "timestamp": 1754411734.9182272,
+        "memory_used_MB": 378.64453125
+    },
+    {
+        "timestamp": 1754411735.9251306,
+        "memory_used_MB": 604.9296875
+    },
+    {
+        "timestamp": 1754411736.934507,
+        "memory_used_MB": 604.9296875
+    },
+    {
+        "timestamp": 1754411737.942533,
+        "memory_used_MB": 605.1953125
+    },
+    {
+        "timestamp": 1754411738.9501612,
+        "memory_used_MB": 735.34765625
+    },
+    {
+        "timestamp": 1754411739.9588337,
+        "memory_used_MB": 926.01953125
+    },
+    {
+        "timestamp": 1754411740.9665093,
+        "memory_used_MB": 548.03125
+    },
+    {
+        "timestamp": 1754411741.9743035,
+        "memory_used_MB": 582.1640625
+    },
+    {
+        "timestamp": 1754411742.9850838,
+        "memory_used_MB": 818.47265625
+    },
+    {
+        "timestamp": 1754411743.9924467,
+        "memory_used_MB": 876.8671875
+    },
+    {
+        "timestamp": 1754411744.9990547,
+        "memory_used_MB": 395.78125
+    },
+    {
+        "timestamp": 1754411746.0065968,
+        "memory_used_MB": 395.78125
+    },
+    {
+        "timestamp": 1754411747.0136652,
+        "memory_used_MB": 395.78125
+    },
+    {
+        "timestamp": 1754411748.0216885,
+        "memory_used_MB": 395.78125
+    },
+    {
+        "timestamp": 1754411749.0334668,
+        "memory_used_MB": 395.78125
+    },
+    {
+        "timestamp": 1754411750.0415115,
+        "memory_used_MB": 395.78125
+    },
+    {
+        "timestamp": 1754411751.046868,
+        "memory_used_MB": 395.78125
+    },
+    {
+        "timestamp": 1754411752.0556076,
+        "memory_used_MB": 395.78125
+    },
+    {
+        "timestamp": 1754411753.0645041,
+        "memory_used_MB": 395.78125
+    },
+    {
+        "timestamp": 1754411754.0711071,
+        "memory_used_MB": 459.1953125
+    },
+    {
+        "timestamp": 1754411755.080029,
+        "memory_used_MB": 643.375
+    },
+    {
+        "timestamp": 1754411756.0877385,
+        "memory_used_MB": 827.5546875
+    },
+    {
+        "timestamp": 1754411757.0948305,
+        "memory_used_MB": 1008.67578125
+    },
+    {
+        "timestamp": 1754411758.1044407,
+        "memory_used_MB": 1189.96484375
+    },
+    {
+        "timestamp": 1754411759.1138983,
+        "memory_used_MB": 1370.0703125
+    },
+    {
+        "timestamp": 1754411760.1210015,
+        "memory_used_MB": 1549.21875
+    },
+    {
+        "timestamp": 1754411761.1297781,
+        "memory_used_MB": 1730.44921875
+    },
+    {
+        "timestamp": 1754411762.138236,
+        "memory_used_MB": 1910.47265625
+    },
+    {
+        "timestamp": 1754411763.1471326,
+        "memory_used_MB": 2089.98046875
+    },
+    {
+        "timestamp": 1754411764.1577132,
+        "memory_used_MB": 2271.40625
+    },
+    {
+        "timestamp": 1754411765.1693306,
+        "memory_used_MB": 2451.58203125
+    },
+    {
+        "timestamp": 1754411766.1772232,
+        "memory_used_MB": 2627.765625
+    },
+    {
+        "timestamp": 1754411767.1863134,
+        "memory_used_MB": 2803.0703125
+    },
+    {
+        "timestamp": 1754411768.195051,
+        "memory_used_MB": 2982.640625
+    },
+    {
+        "timestamp": 1754411769.2041724,
+        "memory_used_MB": 3162.7109375
+    },
+    {
+        "timestamp": 1754411770.215108,
+        "memory_used_MB": 3245.359375
+    },
+    {
+        "timestamp": 1754411771.2237911,
+        "memory_used_MB": 3247.19921875
+    },
+    {
+        "timestamp": 1754411772.2330499,
+        "memory_used_MB": 3247.3671875
+    },
+    {
+        "timestamp": 1754411773.2416983,
+        "memory_used_MB": 3247.53515625
+    },
+    {
+        "timestamp": 1754411774.2531717,
+        "memory_used_MB": 3247.5390625
+    },
+    {
+        "timestamp": 1754411775.2619932,
+        "memory_used_MB": 3247.8359375
+    },
+    {
+        "timestamp": 1754411776.2700763,
+        "memory_used_MB": 3247.59765625
+    },
+    {
+        "timestamp": 1754411777.2784457,
+        "memory_used_MB": 3247.6015625
+    },
+    {
+        "timestamp": 1754411778.288223,
+        "memory_used_MB": 3247.6015625
+    },
+    {
+        "timestamp": 1754411779.2975423,
+        "memory_used_MB": 3247.8984375
+    },
+    {
+        "timestamp": 1754411780.3062482,
+        "memory_used_MB": 3247.60546875
+    },
+    {
+        "timestamp": 1754411781.3148098,
+        "memory_used_MB": 3247.6015625
+    },
+    {
+        "timestamp": 1754411782.3224046,
+        "memory_used_MB": 3247.6015625
+    },
+    {
+        "timestamp": 1754411783.3320808,
+        "memory_used_MB": 3247.8984375
+    },
+    {
+        "timestamp": 1754411784.3403323,
+        "memory_used_MB": 3247.60546875
+    },
+    {
+        "timestamp": 1754411785.3496616,
+        "memory_used_MB": 3247.60546875
+    },
+    {
+        "timestamp": 1754411786.3567002,
+        "memory_used_MB": 3247.546875
+    },
+    {
+        "timestamp": 1754411787.3648868,
+        "memory_used_MB": 3247.546875
+    },
+    {
+        "timestamp": 1754411788.372071,
+        "memory_used_MB": 3247.546875
+    },
+    {
+        "timestamp": 1754411789.3806324,
+        "memory_used_MB": 3247.546875
+    },
+    {
+        "timestamp": 1754411790.3906124,
+        "memory_used_MB": 3247.546875
+    },
+    {
+        "timestamp": 1754411791.4002974,
+        "memory_used_MB": 3247.55078125
+    },
+    {
+        "timestamp": 1754411792.4089468,
+        "memory_used_MB": 1660.80078125
+    },
+    {
+        "timestamp": 1754411793.4146698,
+        "memory_used_MB": 920.4453125
+    },
+    {
+        "timestamp": 1754411794.4174426,
+        "memory_used_MB": 1439.7890625
+    },
+    {
+        "timestamp": 1754411795.432517,
+        "memory_used_MB": 1927.45703125
+    }
+]
